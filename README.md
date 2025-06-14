@@ -5,7 +5,7 @@ This project deploys a 3-node PostgreSQL cluster using **Patroni** and **etcd** 
 
 
 git clone https://github.com/Kalai25-tech/pg-cluster.git
-cd pg-cluster/pg-cluster
+cd pg-cluster/
 
 # Start the cluster
 docker-compose up -d
